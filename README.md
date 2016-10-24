@@ -1,4 +1,4 @@
-## Handy
+			## Handy
 Geef HTML-elementen een bijzondere positie op twee webpagina's
 ### Hoe werkt dat...
 Block-elementen worden normaal onder elkaar gepositioneerd. Inline-elementen worden normaal binnen een block-element naast elkaar gepositioneerd in regels. De normale positie van block- en inline elementen wordt **static** genoemd. Je kunt elementen ook een afwijkende positie geven. Ze lijken daardoor te zweven boven de andere elementen van de webpagina.
